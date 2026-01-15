@@ -9,16 +9,15 @@ The algorithm reduces computational complexity from O(N^d) to **O(1)**, enabling
 
 ## 🚀 Interactive Implementation
 
-Experience the theorem's efficiency firsthand through our official Research Notebook. 
+Experience the theorem's efficiency firsthand through our official Research Notebook:
 
-| | |
-|---|---|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xI1gWXsaahZloBEfsekv6Zn-1NRMdbLl?usp=sharing) | **[Click here to run the Amestoy Vazquez Theorem Calculator]** |
+<a href="https://colab.research.google.com/drive/1xI1gWXsaahZloBEfsekv6Zn-1NRMdbLl?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" valign="middle"></a> **[Run the Amestoy Vazquez Theorem Calculator]**
 
 ### Key Features:
 * **Real-time Calculation:** Powered by the $O(1)$ formula.
 * **Scalability Testing:** Enter massive values for $d$ or $n$.
-* **Official Interface:** Simplified form for research purposes.
+* **Official Interface:** Simplified form for research purposes. Simplified form for research purposes.
+
 ## Implementation Logic
 The core of the theorem is implemented as follows:
 

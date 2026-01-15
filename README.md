@@ -7,17 +7,18 @@ Official Python implementation of the **Amestoy Vazquez Theorem** for calculatin
 ## Overview
 The algorithm reduces computational complexity from O(N^d) to **O(1)**, enabling instantaneous integrity validation for massive datasets across any dimension and any starting point.
 
-<div align="center">
+## 🚀 Interactive Implementation
 
-### 🚀 Interactive Implementation
-Experience the theorem's efficiency firsthand through our official Research Notebook.
+Experience the theorem's efficiency firsthand through our official Research Notebook. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xI1gWXsaahZloBEfsekv6Zn-1NRMdbLl?usp=sharing)
+| | |
+|---|---|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xI1gWXsaahZloBEfsekv6Zn-1NRMdbLl?usp=sharing) | **[Click here to run the Amestoy Vazquez Theorem Calculator]** |
 
-**[Click here to run the Amestoy Vazquez Theorem Calculator]**
-
-</div>
-
+### Key Features:
+* **Real-time Calculation:** Powered by the $O(1)$ formula.
+* **Scalability Testing:** Enter massive values for $d$ or $n$.
+* **Official Interface:** Simplified form for research purposes.
 ## Implementation Logic
 The core of the theorem is implemented as follows:
 

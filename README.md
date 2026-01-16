@@ -24,7 +24,7 @@
 
 The **Amestoy-Vázquez Conjecture** proposes a generalization of the classical magic square formula to arbitrary dimensions and starting values. While the traditional formula only works for 2D squares starting at 1, this conjecture extends it to d-dimensional hypercubes starting at any value `a`.
 
-**Author:** [Juan Pedro Amestoy Vazquez]  
+**Author:** Juan Pedro Amestoy Vazquez  
 **Institution:** Independent Researcher  
 **Publication Date:** January 2026  
 **Related Work:** DOI 10.5281/zenodo.18248838  
@@ -202,7 +202,7 @@ If you use this work in academic research, please cite:
 
 ```bibtex
 @software{amestoy_vazquez_conjecture,
-  author       = {[Juan Pedro Amestoy Vazquez]},
+  author       = {Juan Pedro Amestoy Vazquez},
   title        = {{The Amestoy-Vázquez Conjecture: Generalization of Magic Constants}},
   year         = {2026},
   publisher    = {Zenodo},
@@ -213,7 +213,7 @@ If you use this work in academic research, please cite:
 ```
 
 **Alternative citation format:**
-> [Juan Pedro Amestoy Vazquez]. (2026). The Amestoy-Vázquez Conjecture: Generalization of Magic Constants. Zenodo. https://doi.org/10.5281/zenodo.18248838
+> Juan Pedro Amestoy Vazquez. (2026). The Amestoy-Vázquez Conjecture: Generalization of Magic Constants. Zenodo. https://doi.org/10.5281/zenodo.18248838
 
 ## 📄 License
 
@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2026 [Juan Pedro Amestoy Vazquez]
+Copyright (c) 2026 Juan Pedro Amestoy Vazquez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -246,14 +246,14 @@ SOFTWARE.
 ## 📧 Contact & Collaboration
 
 ### Primary Contact
-- **Name**: [Juan Pedro Amestoy Vazquez]
-- **Email**: [juanpedroamestoy@gmail.com]
+- **Name**: Juan Pedro Amestoy Vazquez
+- **Email**: juanpedroamestoy@gmail.com
 - **GitHub**: [@amestoyvazquez](https://github.com/amestoyvazquez)
 
 
 ### Research Profiles
 - **Zenodo**: [10.5281/zenodo.18248838](https://doi.org/10.5281/zenodo.18248838)
-- **arXiv**: [Coming soon]
+- **arXiv**: Coming soon
 
 ### Collaboration Opportunities
 We are actively seeking:

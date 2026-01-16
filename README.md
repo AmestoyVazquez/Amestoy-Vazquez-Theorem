@@ -27,14 +27,16 @@ cd amestoy-vazquez-conjecture
 pip install numpy matplotlib
 
 # Run verification
-python src/verification.py
+python src/simple_verification.py
 ```
 
 ## 📖 What is This?
 
 The **Amestoy-Vázquez Conjecture** is a mathematical generalization of the classical magic square formula. While the traditional formula:
 
-\[ S_{\text{classical}} = \frac{n(n^2 + 1)}{2} \]
+```math
+S_{\text{classical}} = \frac{n(n^2 + 1)}{2}
+```
 
 only works for squares containing numbers 1 through n², our conjecture extends this to:
 
